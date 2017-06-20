@@ -85,6 +85,7 @@ body{
 }
 .header-wrap .header-wrap-logo{
 	width: 9%;
+	line-height: .56rem;
 	background:url(../images/logo.png) no-repeat .14rem;
 	padding-left: 5%;
 	float: left;
