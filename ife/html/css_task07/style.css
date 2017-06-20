@@ -86,11 +86,12 @@ body{
 .header-wrap .header-wrap-logo{
 	width: 9%;
 	background:url(../images/logo.png) no-repeat .14rem;
-	padding-left: 4%;
+	padding-left: 5%;
 	float: left;
 }
 .header-wrap-logo a{
 	font-size:.21rem;
+	font-weight: 400;
 }
 #header-nav{
 	float:right;
