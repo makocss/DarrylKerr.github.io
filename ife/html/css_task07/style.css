@@ -110,7 +110,7 @@ body{
 .header-nav-item a:after {
 	content: "";
 	position: absolute;
-	bottom: -.04rem;
+	bottom: -.05rem;
 	right: 0;
 	width: 0;
 	border-bottom: .05rem solid #e74f4d;
