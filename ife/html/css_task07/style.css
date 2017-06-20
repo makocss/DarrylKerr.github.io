@@ -111,7 +111,7 @@ body{
 	bottom: -.04rem;
 	right: 0;
 	width: 0;
-	border-bottom: .04rem solid #e74f4d;
+	border-bottom: .05rem solid #e74f4d;
 	transition: all linear 0.5s;
 	}
 
@@ -120,7 +120,7 @@ body{
 	}
 #header-nav .active{
 	color: #e74f4d;
-	border-bottom: 4px solid #e74f4d;
+	border-bottom: .05rem solid #e74f4d;
 	}
 .header-nav-item a:hover:after {
 	left: 0;
