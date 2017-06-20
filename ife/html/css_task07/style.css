@@ -196,7 +196,7 @@ body{
 		border-right: .02rem solid #767777;
 	}
 	.g-flow-item:last-child .g-flow-tit{
-		border-bottom:none;
+		border-right: none;
 	}
 	.ad-content{
 		height:3.62rem;
